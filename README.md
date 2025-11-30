@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" alt="Raven Bayonetta Banner" width="400"/>
+# Hello World! I'm Raven!
 
 🏤 Studying Information Technology at TIP Manila  
 <br>🛡️ B4Y0N3TTA, Defender of the Digital Realm  
