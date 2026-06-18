@@ -3,25 +3,14 @@
 # Hello World! I'm Raven!
 
 🏤 Studying Information Technology at TIP Manila  
-<br>🛡️ B4Y0N3TTA, Defender of the Digital Realm  
-<br>🔐 Trains through CTF competitions and hackathons  
-<br>📚 Constantly forging new tech and cybersecurity skills  
 
 ---
-
-# 🛡️ Toolkit
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-2688D4?style=for-the-badge&logo=kalilinux&logoColor=white)
-![theHarvester](https://img.shields.io/badge/theHarvester-5A0FC8?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Sherlock](https://img.shields.io/badge/Sherlock-CC0000?style=for-the-badge&logo=redhat&logoColor=white) 
-![John the Ripper](https://img.shields.io/badge/John_The_Ripper-333333?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
-![Hashcat](https://img.shields.io/badge/Hashcat-2C2C2C?style=for-the-badge&logo=hashnode&logoColor=white) </br>
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) <br/>
-
 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
